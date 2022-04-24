@@ -1,0 +1,12 @@
+.menu {
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.menuItem{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
